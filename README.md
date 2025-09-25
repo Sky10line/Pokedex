@@ -69,9 +69,9 @@ The project follows **Clean Architecture**, **MVVM** and **Builder**.
 I chose using only native libraries and tools, because I didn't see the need to add more dependencies using SPM.
 
 ## ⏳ Things I would do with more time
-    - Add cache to images request.
-    - Add a security layer for requests like certificate pinning.
-    - Add SwiftLint.
-    - Add mock environment to be able to use the app even offline to help in development and tests.
-    - Add images of pokemon types in DetailsView.
-    - Different error screen for each feature.
+- Add cache to images request.
+- Add a security layer for requests like certificate pinning.
+- Add SwiftLint.
+- Add mock environment to be able to use the app even offline to help in development and tests.
+- Add images of pokemon types in DetailsView.
+- Different error screen for each feature.
