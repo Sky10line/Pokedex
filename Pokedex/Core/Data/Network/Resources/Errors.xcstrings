@@ -1,0 +1,78 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "invalidRequest" : {
+      "comment" : "Error of invalid request body",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid request body"
+          }
+        }
+      }
+    },
+    "invalidURL" : {
+      "comment" : "Error of invalid URL",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid URL"
+          }
+        }
+      }
+    },
+    "noInternet" : {
+      "comment" : "Error of no internet connection",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Internet connection"
+          }
+        }
+      }
+    },
+    "serverUnavailable" : {
+      "comment" : "Error of server unavailable",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server unavailable"
+          }
+        }
+      }
+    },
+    "timeout" : {
+      "comment" : "Error of request timed out",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The request timed out"
+          }
+        }
+      }
+    },
+    "unknow" : {
+      "comment" : "Unknow error",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something went wrong..."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
